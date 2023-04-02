@@ -4,7 +4,7 @@ import { useState,useEffect } from "react";
 
 function App() {
 
-
+    console.log("--------------------------------");
     message();
 
   return (
