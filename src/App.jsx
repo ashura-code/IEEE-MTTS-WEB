@@ -1,5 +1,4 @@
 import "./App.css";
-import logo from "./logo.svg";
 import {message} from "./sign.js";
 import { useState,useEffect } from "react";
 
